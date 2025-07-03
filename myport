@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Manasi Kale | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Manasi Kale</h1>
+      <p>Software Developer</p>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#experience">Experience</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <section id="about" class="container">
+    <h2>About Me</h2>
+    <p>I’m a full stack web developer with hands-on experience in Java, JSP, Servlets, MySQL, HTML, CSS, and JavaScript. Passionate about building responsive, user-friendly web applications and learning through real-world challenges.</p>
+  </section>
+
+  <section id="skills" class="container">
+    <h2>Skills</h2>
+    <ul>
+      <li>Java</li>
+      <li>JSP & Servlets</li>
+      <li>MySQL</li>
+      <li>HTML & CSS</li>
+      <li>JavaScript</li>
+      <li>Git & GitHub</li>
+      <li>VS Code</li>
+      <li>DSA</li>
+    </ul>
+  </section>
+
+  <section id="projects" class="container">
+    <h2>Projects</h2>
+    <h3>RentMate</h3>
+    <p>A web app to connect renters and property owners. Features include registration, login, property listing, and rent tracking.</p>
+    <p><strong>Tech Stack:</strong> Java, JSP, Servlets, MySQL, HTML, CSS, JavaScript</p>
+  </section>
+
+  <section id="experience" class="container">
+    <h2>Experience</h2>
+    <p><strong>InternPe – Full Stack Java Development</strong> (Jan 2025 – Mar 2025)</p>
+    <p><strong>CodeSoft – Java Programming Internship</strong> (Remote)</p>
+  </section>
+
+  <section id="contact" class="container">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:manasikale580@gmail.com">manasikale580@gmail.com</a></p>
+    <p>Phone: +91 87674 54600</p>
+    <p><a href="https://www.linkedin.com/in/manasi-kale-0442b3287" target="_blank">LinkedIn</a></p>
+    <p><a href="https://github.com/kalemansi" target="_blank">GitHub</a></p>
+    <p><a href="https://www.hackerrank.com/profile/manasikale580" target="_blank">HackerRank</a></p>
+  </section>
+
+  <footer class="container">
+    <p>© 2025 Manasi Kale</p>
+  </footer>
+</body>
+</html>
